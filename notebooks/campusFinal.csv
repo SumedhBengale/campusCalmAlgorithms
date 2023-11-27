@@ -1,0 +1,403 @@
+Timestamp,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Depressed,Mental Health Issue,Branch,Year,Gender,Other Comments
+9/5/2023 10:32:07,2,2,4,2,4,3,1,2,3,2,Y,Y,CS,4th,Male,No
+9/5/2023 10:42:53,1,4,4,4,4,4,4,4,3,4,Y,Y,CS,4th,Male,Yes akash deep sir technical training le
+9/5/2023 10:43:49,2,3,2,1,1,1,2,2,1,2,N,N,CS,4th,Male,No
+9/5/2023 10:44:52,4,3,4,4,3,1,2,4,0,3,Y,Y,CS,4th,Male,Multiple factors can't point at single one 💀
+9/5/2023 10:45:11,2,4,3,2,2,2,2,2,2,2,N,N,CS,4th,Female,No
+9/5/2023 10:46:30,2,4,3,2,3,2,2,1,2,2,Y,N,CS,3rd,Female,Nope
+9/5/2023 10:47:02,0,0,0,0,0,0,2,0,1,0,N,N,CS,3rd,Male,No any reason to think of
+9/5/2023 10:48:01,0,2,4,2,1,1,4,2,0,4,Y,Y,CS,3rd,Female,Nothing
+9/5/2023 10:48:04,2,2,3,3,2,2,1,1,4,3,N,N,CS,3rd,Female,No
+9/5/2023 10:48:47,2,2,2,3,3,3,4,2,3,2,Y,N,CS,3rd,Male,Assignments.
+9/5/2023 10:48:48,2,3,2,2,2,2,1,2,3,2,N,N,CS,3rd,Female,No
+9/5/2023 10:49:03,1,2,2,2,2,2,2,2,2,2,N,Y,CS,3rd,Male,Not any stress 
+9/5/2023 10:49:21,3,3,4,2,3,1,0,1,3,3,N,N,CS,3rd,Male,"Assignments , experiments "
+9/5/2023 10:49:26,3,3,4,4,3,4,4,4,4,2,Y,Y,CS,3rd,Male,No
+9/5/2023 10:50:03,3,4,3,3,4,3,2,3,4,3,Y,Y,CS,3rd,Male,Yes
+9/5/2023 10:50:09,2,4,3,3,4,4,4,4,4,3,Y,Y,CS,3rd,Female,Yes
+9/5/2023 10:50:22,1,0,2,1,1,2,1,1,1,1,Y,Y,CS,3rd,Male,Yes
+9/5/2023 10:50:53,2,3,1,2,4,2,4,1,3,2,Y,N,CS,3rd,Male,No 
+9/5/2023 10:51:18,2,3,4,2,2,1,3,2,3,3,Y,Y,CS,3rd,Male,"Yes, no proper faculty for teaching despite paying heavy fees to the college"
+9/5/2023 10:51:20,0,1,1,1,1,0,1,1,1,1,N,N,CS,3rd,Male,NO
+9/5/2023 10:51:47,2,3,3,2,2,2,4,2,2,2,Y,N,CS,3rd,Male,No
+9/5/2023 10:52:07,2,3,1,2,1,2,3,2,3,2,N,N,CS,3rd,Male,
+9/5/2023 10:52:10,4,3,4,4,2,4,4,2,2,4,Y,Y,CS,3rd,Female,"Social media,"
+9/5/2023 10:52:21,2,2,3,2,3,3,2,2,4,2,Y,Y,CS,3rd,Female,No 
+9/5/2023 10:53:54,3,2,3,2,1,0,2,3,2,2,Y,N,CS,3rd,Female,"Reduced self esteem might be an issue... As it affects the self confidence, slowly reducing the academic intellectual"
+9/5/2023 10:53:55,2,2,4,2,2,1,3,2,2,1,N,N,CS,3rd,Female,Social media 
+9/5/2023 10:53:59,2,3,3,2,3,2,3,3,3,2,N,N,CS,3rd,Female,no
+9/5/2023 10:54:17,4,2,4,3,4,3,3,3,2,4,N,N,CS,3rd,Male,Too much assignments 
+9/5/2023 10:54:39,3,2,1,2,3,1,1,1,2,3,Y,Y,CS,3rd,Female,Maybe the future..(sometime thoughts like will I be able to do anything ..career wise) just a thought but a constant one..
+9/5/2023 10:56:57,3,4,4,4,3,4,4,4,4,4,Y,Y,CS,3rd,Male,"1. Mis-management inbetween college things & all, relationship between faculty & students.  2. Last moment things.   3. Faculty should understand the student's situation like how's he/she is comming in college & all.   4. Faculty should not force to students for every things....  & much more"
+9/5/2023 10:57:42,2,3,4,2,4,4,4,4,4,2,Y,Y,IT,2nd,Male,Idk
+9/5/2023 10:58:14,1,2,3,4,2,2,2,3,3,1,N,Y,CS,3rd,Female,-
+9/5/2023 10:58:30,4,4,4,2,2,3,1,2,2,1,Y,Y,CS,2nd,Male,backlogs
+9/5/2023 10:58:30,4,0,4,3,4,4,4,3,4,4,Y,Y,CS,2nd,Male,No
+9/5/2023 10:58:48,3,4,4,2,2,4,2,2,1,1,Y,Y,CS,2nd,Female,No
+9/5/2023 10:59:02,2,2,3,2,2,2,2,1,1,2,N,N,CS,2nd,Female,No
+9/5/2023 11:00:19,3,2,3,2,3,1,3,3,3,2,Y,N,CS,2nd,Male,.
+9/5/2023 11:01:29,2,2,2,3,3,2,2,3,3,2,N,N,CS,2nd,Male,.
+9/5/2023 11:02:53,3,4,3,4,4,2,4,4,2,3,Y,Y,CS,3rd,Male,I have a stutter which makes it very difficult to have an interaction with students as well as teachers 
+9/5/2023 11:03:21,0,0,2,1,1,1,0,0,0,0,N,N,CS,4th,Male,No
+9/5/2023 11:03:58,2,2,1,3,3,2,3,3,1,2,Y,Y,CS,3rd,Female,Maybe
+9/5/2023 11:04:24,2,3,1,2,2,3,1,0,2,3,N,N,CS,2nd,Female,No
+9/5/2023 11:05:09,1,3,3,4,2,2,2,2,3,2,Y,Y,CS,2nd,Female,no
+9/5/2023 11:16:00,3,3,4,3,3,4,3,2,2,2,Y,N,CS,3rd,Male,No
+9/5/2023 11:20:31,4,4,2,3,3,2,1,2,0,2,Y,Y,CS,4th,Male,"Peer pressure, placement related thought, unemployment "
+9/5/2023 11:20:47,2,4,4,4,4,4,4,4,3,4,Y,N,CS,4th,Female,No
+9/5/2023 11:20:59,2,2,3,2,3,1,3,2,4,3,Y,Y,CS,4th,Male,People
+9/5/2023 11:21:28,2,4,4,3,4,3,2,3,4,3,Y,N,CS,4th,Female,-
+9/5/2023 11:22:09,2,3,3,3,4,2,2,3,3,2,Y,Y,CS,4th,Female,Yes
+9/5/2023 11:22:19,3,2,1,4,0,1,4,1,0,2,Y,Y,CS,4th,Male,Nothing 
+9/5/2023 11:22:21,0,3,2,2,2,1,2,0,2,2,Y,Y,CS,4th,Male,No
+9/5/2023 11:22:53,4,4,4,4,4,3,3,3,4,4,Y,Y,CS,3rd,Male,No
+9/5/2023 11:25:13,2,3,4,2,3,3,2,3,2,3,Y,N,CS,3rd,Male, Yes
+9/5/2023 11:25:26,4,3,4,2,3,3,4,3,3,2,Y,Y,CS,3rd,Male,Yes
+9/5/2023 11:29:37,2,2,1,2,3,2,1,1,1,1,Y,Y,CS,3rd,Female,No 
+9/5/2023 11:31:01,2,3,3,2,2,2,3,2,2,2,N,N,CS,3rd,Female,Maybe
+9/5/2023 11:34:27,4,3,4,2,4,1,4,3,4,4,Y,Y,CS,2nd,Female,No holidays no fun just college amd academics 
+9/5/2023 11:34:30,2,3,2,3,2,4,3,1,3,3,Y,N,CS,2nd,Female,Pressure from teachers
+9/5/2023 11:34:50,2,3,3,4,1,1,2,4,2,3,N,N,CS,2nd,Male,Travelling affect my academic studies much more than the syllabus so i think i should work on my own time management so it will be less difficult for me
+9/5/2023 11:34:53,2,1,4,2,2,3,2,3,2,1,N,N,CS,2nd,Male,There should be an less time for studying and for other activities which we want to do during academics 
+9/5/2023 11:34:54,3,3,3,3,3,3,2,3,4,3,Y,Y,CS,2nd,Female,"Need for approval, validation and comparison done by peers and teachers "
+9/5/2023 11:35:23,1,2,3,1,3,1,2,1,2,2,Y,N,CS,2nd,Male,Noooooo
+9/5/2023 11:35:33,3,3,4,3,4,3,4,3,4,3,Y,Y,CS,4th,Male,Placements
+9/5/2023 11:35:43,0,0,4,4,3,1,4,4,4,3,Y,Y,CS,2nd,Female,Health and personal life
+9/5/2023 11:36:04,0,2,3,2,2,1,3,1,3,1,Y,Y,CS,2nd,Male,"Yes,there are other factors affecting academic stress like disturbed sleep cycle ,often getting compared with classmates etc"
+9/5/2023 11:36:32,2,4,2,2,2,1,1,4,2,2,Y,Y,CS,2nd,Male,Different kinds of pressure
+9/5/2023 11:37:03,1,3,1,4,3,3,4,4,4,3,Y,Y,CS,3rd,Male,University and college staff
+9/5/2023 11:37:46,2,2,4,3,4,3,3,3,4,3,Y,Y,CS,2nd,Male,Future Anxiety 
+9/5/2023 11:39:58,2,2,4,3,1,1,2,0,2,2,Y,N,CS,2nd,Male,No
+9/5/2023 11:40:15,4,3,4,2,3,1,4,3,4,2,Y,Y,CS,2nd,Male,My Academic Stress is on the rise owing to too much competition and pressure to maintain grades for good placement
+9/5/2023 11:41:29,3,2,4,0,3,3,4,3,0,2,Y,Y,CS,2nd,Male,Distractions due to internate and nowadays i can't focus on one thing at time . I get easily distracted.
+9/5/2023 11:42:29,3,3,4,3,4,4,2,4,4,2,Y,Y,CS,3rd,Male,"Yes, there are actually many factors affecting my academic stress. These factors are messed up sleep schedule, stress anxiety, depression, etc"
+9/5/2023 11:43:38,0,2,1,1,0,2,2,1,2,2,Y,N,CS,2nd,Male,No
+9/5/2023 11:43:50,2,2,3,2,2,3,2,2,3,2,Y,Y,CS,4th,Male,Poor clg result management 
+9/5/2023 11:48:39,2,4,4,4,3,4,3,4,4,2,Y,N,CS,4th,Male,.
+9/5/2023 11:58:52,4,3,3,3,4,2,4,3,3,4,Y,Y,CS,4th,Female,Possibly
+9/5/2023 11:59:11,0,0,1,0,0,0,0,0,2,1,N,N,CS,2nd,Male,no
+9/5/2023 11:59:13,3,4,3,2,4,2,4,2,1,2,Y,Y,CS,4th,Female,Yes
+9/5/2023 11:59:33,2,1,2,0,2,1,2,2,2,0,N,N,CS,4th,Female,Laziness
+9/5/2023 11:59:35,0,0,1,0,2,1,1,1,1,1,N,N,CS,4th,Male,No
+9/5/2023 11:59:55,2,1,2,2,2,2,1,1,1,1,N,Y,CS,4th,Male,Lack of time to complete a particular task.
+9/5/2023 12:00:14,1,3,2,2,2,3,3,3,2,2,N,Y,CS,4th,Female,No.
+9/5/2023 12:01:58,3,2,3,0,3,2,1,2,1,2,Y,Y,CS,1st,Male,yes
+9/5/2023 12:02:43,3,2,3,2,4,1,4,3,1,1,Y,Y,CS,4th,Male,"Exam, assignment, projects, placement "
+9/5/2023 12:03:15,2,2,3,1,2,1,2,2,3,3,N,N,CS,4th,Male,The main reason for stress is not academics. some main reasons are unnecessary pressure from teachers and big assignments which waste our time and adds no value 
+9/5/2023 12:03:26,4,3,3,4,2,3,3,4,4,4,Y,Y,CS,2nd,Male,Yes. The 75% attendance rule should be waived off because there are many students who come from far away places and half of their day is wasted only in travelling. If students attendance is less than 75% but are still scoring good in exams then why should attendance really matter to the college.
+9/5/2023 12:08:07,3,4,4,3,3,3,4,3,4,2,Y,Y,CS,2nd,Male,Yes all the things which I can't say.but currently while writing this I can still feel pressure on my head 
+9/5/2023 12:23:54,3,1,4,3,0,2,2,2,2,2,Y,N,CS,4th,Female,No
+9/5/2023 12:27:29,4,0,4,0,4,0,4,0,4,0,N,N,CS,4th,Male,Lack of hoes
+9/5/2023 12:28:17,3,3,3,3,4,1,3,4,4,3,Y,Y,CS,2nd,Male,"Yes Family disputes,  Financial problem, Health issues"
+9/5/2023 12:28:30,4,0,4,4,4,4,4,4,4,4,N,N,CS,4th,Male,"Exam, assignment, practicals, etc"
+9/5/2023 12:37:39,1,3,1,2,2,2,3,3,4,3,Y,Y,CS,3rd,Male,No
+9/5/2023 12:37:53,2,3,4,3,3,4,2,4,3,2,Y,N,CS,3rd,Male,No
+9/5/2023 12:39:13,2,3,3,2,2,3,1,4,4,2,Y,Y,CS,3rd,Female,"Marks,assignment ,Traveling "
+9/5/2023 12:39:42,3,3,4,2,3,2,4,2,4,3,Y,Y,AI-DS,3rd,Male,just submissions of multiple paperworks and exam date clashes
+9/5/2023 12:41:14,2,2,3,2,3,4,2,4,3,2,N,Y,CS,3rd,Male,"personal time , Carrier decisons, leaving Passion vs college life,society pressure,etc"
+9/5/2023 12:41:16,3,4,4,4,4,4,4,4,2,4,Y,Y,CS,2nd,Male,Like social media addiction 
+9/5/2023 12:41:20,4,4,2,3,4,4,2,3,4,2,Y,Y,CS,2nd,Female,Family issues
+9/5/2023 12:41:33,2,2,4,2,4,3,2,2,2,2,Y,Y,CS,2nd,Female,No
+9/5/2023 12:41:47,3,3,3,3,3,4,2,2,2,1,N,Y,CS,2nd,Male,No
+9/5/2023 12:41:50,3,3,3,2,3,4,2,2,2,1,Y,Y,CS,3rd,Female,Overthinking and anxiety attacks
+9/5/2023 12:41:51,2,3,1,1,1,2,2,1,1,2,N,N,CS,2nd,Male,No
+9/5/2023 12:42:01,3,3,4,2,3,1,1,4,4,3,N,N,CS,2nd,Male,Nope.
+9/5/2023 12:42:15,0,2,3,1,4,2,0,1,4,3,Y,Y,CS,3rd,Female,Yess... Travelling for literally 2 hrs like from only one side...it's really stressful...Is it important to maintain 75 percent attendance..like it should be 60 because the one who live far away cannot manage each and every thing like academics and personal issues
+9/5/2023 12:42:18,4,4,4,4,4,3,4,4,4,4,Y,Y,CS,2nd,Male,May be
+9/5/2023 12:42:41,2,2,2,2,2,2,2,2,3,0,N,N,CS,2nd,Male,Valorant ranked
+9/5/2023 12:42:49,2,2,3,3,3,2,2,2,4,2,Y,Y,CS,2nd,Female,Not yet
+9/5/2023 12:43:15,3,2,3,1,3,2,2,2,1,2,Y,Y,CS,2nd,Female,The fear of being last 
+9/5/2023 12:43:22,1,2,2,0,2,1,4,2,2,1,N,N,CS,3rd,Male,Assignments and submissions🥲
+9/5/2023 12:43:27,3,2,2,2,3,2,3,2,2,3,Y,Y,CS,2nd,Female,.
+9/5/2023 12:43:40,3,3,4,2,2,3,3,2,2,2,Y,Y,CS,2nd,Male,managing time
+9/5/2023 12:43:59,2,2,2,1,2,2,2,2,2,2,N,N,CS,3rd,Male,No
+9/5/2023 12:44:00,3,2,4,4,4,4,4,4,4,2,Y,Y,CS,2nd,Male,Travelling 
+9/5/2023 12:44:03,1,2,3,1,1,0,1,3,2,1,N,N,CS,2nd,Male,No.
+9/5/2023 12:45:32,4,4,3,2,3,2,1,2,2,1,Y,Y,CS,2nd,Male,Maybe
+9/5/2023 12:47:15,2,4,4,4,2,3,3,2,3,2,Y,Y,EXTC,3rd,Male,No 
+9/5/2023 12:48:54,2,4,4,3,4,2,3,2,3,2,Y,Y,CS,2nd,Male,Time management
+9/5/2023 12:53:07,2,2,3,2,1,1,2,3,2,1,N,N,CS,3rd,Male,No
+9/5/2023 12:55:08,2,2,2,2,3,3,2,3,3,2,Y,Y,CS,2nd,Female,No
+9/5/2023 12:55:11,4,3,4,4,3,2,0,2,4,4,Y,Y,CS,3rd,Male,Assignment and Submission 
+9/5/2023 12:57:11,3,4,4,0,2,0,4,2,4,4,N,Y,CS,2nd,Male,Compulsory attendance 
+9/5/2023 12:58:14,2,1,1,2,2,1,2,1,1,1,N,N,CS,2nd,Male,No 
+9/5/2023 13:15:16,1,1,1,1,2,1,0,1,0,1,N,N,CS,3rd,Female,No
+9/5/2023 13:28:04,1,1,1,2,1,1,3,1,4,2,N,N,CS,2nd,Male,None
+9/5/2023 13:50:45,3,2,3,1,1,0,1,1,0,0,N,N,CS,3rd,Male,No
+9/5/2023 15:02:17,3,3,1,3,0,3,0,0,4,0,N,N,CS,4th,Male,Expectations
+9/5/2023 15:10:28,3,1,2,0,0,0,2,1,0,0,N,N,CS,2nd,Female,No
+9/5/2023 17:36:51,4,4,4,3,4,4,2,4,3,3,Y,Y,CS,3rd,Male,Unusual submission pattern 
+9/5/2023 17:50:24,0,0,2,1,0,0,0,0,3,2,N,N,CS,2nd,Male,75% attendence 
+9/5/2023 18:10:18,3,0,0,4,4,4,4,4,4,4,Y,Y,CS,2nd,Male,Yes
+9/5/2023 18:15:46,3,4,4,2,1,1,0,3,1,3,N,Y,CS,4th,Male,No
+9/5/2023 18:18:36,3,3,4,2,2,1,1,3,1,1,N,Y,IT,4th,Male,I feel stress only in exam week rather than their no as such any factor that affect my academic stress
+9/5/2023 18:29:59,2,3,1,2,3,4,2,4,4,2,Y,Y,IT,4th,Female,No
+9/5/2023 18:33:12,3,3,4,2,2,3,2,2,3,3,N,Y,IT,2nd,Female,Probably even a competitive peer environment 
+9/5/2023 18:40:56,3,2,3,1,3,3,2,1,2,1,Y,Y,IT,3rd,Female,My overall mental and physical health affects my academic performance alot
+9/5/2023 18:47:21,3,2,2,1,2,1,3,2,0,1,N,N,CS,4th,Male,N0
+9/5/2023 19:11:23,3,4,4,3,4,3,3,4,3,2,Y,Y,CS,4th,Female,"College , placements,  assignments,  75% attendance criteria ,experiment writeup , practical performance,  self study "
+9/5/2023 19:23:38,3,4,4,4,4,2,3,4,3,2,Y,Y,EXTC,3rd,Female,Yess there is alot
+9/5/2023 19:29:20,3,2,3,4,3,4,4,4,1,3,Y,Y,CS,2nd,Female,non other than time management
+9/5/2023 19:44:00,3,1,3,4,3,3,2,2,4,3,Y,Y,CS,4th,Female,Attendance
+9/5/2023 19:44:20,3,2,3,2,4,4,2,2,2,2,Y,Y,CS,4th,Male,Career and goals
+9/5/2023 19:44:55,2,2,3,1,3,0,1,3,3,3,Y,Y,CS,4th,Female,
+9/5/2023 19:54:53,3,2,3,1,2,4,2,2,2,2,Y,N,IT,3rd,Male,My overall health is effecting me mentally and physically which is leading to me stressing more about studies and lacking behind as this cycle keep repeating 
+9/5/2023 21:01:31,2,3,4,2,2,2,3,2,2,2,Y,Y,CS,4th,Male,..
+9/5/2023 21:12:57,2,2,3,2,1,0,0,1,1,1,N,N,Mechanical,4th,Male,"8 hours of college, assignments, side by side preparation for placements not able to manage time"
+9/5/2023 21:17:48,2,3,4,4,3,3,2,4,3,2,Y,Y,CS,4th,Female,-
+9/5/2023 22:24:17,3,4,4,4,3,2,4,3,2,3,Y,Y,AI-DS,3rd,Male,"Yes, the npc crowd of my class, god damn it's so boring "
+9/5/2023 22:28:57,1,2,2,2,3,3,4,2,2,3,Y,Y,IT,3rd,Female,Yes
+9/5/2023 23:12:20,2,1,3,3,3,2,2,4,4,2,Y,Y,IT,4th,Male,"College staff, faculty and its unnecessary rules & regulations."
+9/6/2023 7:32:34,3,3,2,2,2,1,0,3,4,3,N,Y,AI-DS,3rd,Male,No
+9/6/2023 10:18:36,0,0,0,0,0,0,2,1,1,0,N,N,CS,4th,Male,.
+9/6/2023 11:31:17,4,4,3,4,4,2,4,4,4,4,Y,Y,CS,4th,Male,College management 
+9/6/2023 11:36:49,2,2,3,2,3,1,2,2,2,1,N,N,CS,4th,Male,Placement exams and Iat exams preparation at same time. Unnecessary assignments works. College hours schedule.
+9/6/2023 11:37:46,3,2,3,2,4,3,3,2,2,1,Y,Y,CS,4th,Male,Preparing for placements along with academics
+9/6/2023 11:39:44,2,3,3,2,3,2,3,3,1,2,Y,Y,CS,4th,Male,Family issues
+9/6/2023 11:39:45,2,4,4,4,3,3,4,3,3,4,Y,Y,CS,4th,Male,Yes
+9/6/2023 11:42:57,2,4,2,3,4,4,4,2,4,2,N,N,CS,4th,Female,No
+9/6/2023 11:43:19,4,4,4,4,4,3,3,3,0,3,Y,Y,CS,4th,Female,Na
+9/6/2023 11:44:34,2,3,3,2,3,3,2,1,3,2,Y,Y,CS,4th,Male,"TPO isn't confident about providing good courses and training to students for placements, further there are no companies visiting terna."
+9/6/2023 12:05:00,1,2,3,2,2,2,2,2,2,2,N,N,CS,3rd,Female,Sometimes 
+9/6/2023 12:15:45,3,3,3,2,2,2,2,2,1,1,N,N,CS,4th,Male,No
+9/6/2023 12:16:54,4,3,4,4,4,4,3,4,4,3,Y,Y,CS,4th,Female,"Keeping Attendance is really difficult because placements are there, I have study for aptitude, I have to study for technical, I want to brush up my skills. Then how can one manage attendance. Especially for those who live far from Nerul, like 4 hr daily travelling is exhausting."
+9/6/2023 12:18:05,3,2,4,3,3,4,1,2,4,2,Y,Y,CS,4th,Male,Extra expectations
+9/6/2023 12:21:00,3,3,4,3,3,2,1,2,4,2,Y,Y,CS,4th,Female,.
+9/6/2023 12:57:13,4,2,3,3,3,2,4,4,4,4,Y,Y,CS,4th,Female,Na
+9/6/2023 13:46:31,2,3,3,2,3,3,2,1,3,2,Y,Y,CS,4th,Female,-
+9/6/2023 20:54:07,3,3,4,2,4,2,2,4,3,2,Y,N,CS,4th,Male,attendance 
+9/6/2023 23:39:55,4,2,3,2,4,3,2,4,4,2,Y,Y,CS,4th,Male,Personal life
+9/7/2023 14:00:09,2,2,3,1,2,1,2,3,3,3,N,N,CS,2nd,Female,Not really
+9/8/2023 18:49:49,2,3,3,3,3,3,2,2,3,2,Y,Y,Mechanical,2nd,Female,. 
+9/18/2023 23:18:28,1,2,4,1,2,2,2,1,1,1,N,Y,CS,3rd,Female,No
+9/26/2023 10:08:13,2,3,3,2,2,1,2,2,1,1,N,N,CS,4th,Male,Lack of skills
+9/26/2023 10:08:34,3,3,3,4,3,2,3,4,3,2,Y,Y,CS,4th,Male,.
+9/26/2023 10:13:04,3,3,3,3,3,3,3,3,3,4,Y,Y,CS,4th,Male,Probably 
+9/26/2023 10:15:58,2,3,4,2,3,3,2,2,3,2,Y,N,CS,3rd,Male,No
+9/26/2023 10:17:13,2,2,2,1,3,3,3,2,2,2,Y,N,CS,3rd,Female,No
+9/26/2023 10:19:15,2,0,2,0,4,2,3,1,2,3,N,N,IT,3rd,Female,No. 
+9/26/2023 10:22:50,2,3,3,2,2,2,2,2,2,3,Y,N,IT,3rd,Male,75 attendance issue 
+9/26/2023 10:23:01,4,4,4,4,4,2,3,4,2,4,Y,N,IT,3rd,Male,Health
+9/26/2023 10:26:20,3,1,0,2,2,3,3,1,3,3,Y,N,CS,4th,Male,No
+9/26/2023 10:33:03,3,2,4,4,2,4,4,3,4,3,Y,Y,CS,3rd,Male,"Currently there is delay in every semester’s exam and result, we get results of previous semester whe we are about to appear for the exam of next semester that mently disturbs the condition to appear for the exam and it affected me so much that i got suicidal thoughts."
+9/26/2023 10:35:22,3,4,4,3,4,3,4,4,4,4,Y,Y,CS,4th,Male,Poor management and lack of communication
+9/26/2023 10:36:19,3,4,3,4,4,2,3,3,2,3,Y,N,Mechatronics,3rd,Male,Assignment submission and after that direct exams create impact on mental stress as well as thoughts of the students related to engineering as well as dought for future for students 
+9/26/2023 10:36:58,2,2,3,2,2,3,2,2,4,3,N,Y,Mechatronics,4th,Male,.
+9/26/2023 10:47:45,1,1,3,0,0,0,3,1,0,0,N,N,Mechatronics,3rd,Male,.
+9/26/2023 10:54:14,1,3,3,3,4,3,4,3,4,4,Y,Y,Mechatronics,4th,Male,"75% attendnace, placements 😮‍💨"
+9/26/2023 10:55:44,2,2,3,3,2,2,4,4,1,1,Y,N,Mechatronics,3rd,Male,Less duration for semester 
+9/26/2023 10:57:05,4,1,4,1,3,4,3,3,4,3,Y,Y,CS,4th,Male,placement and real life opportunities considering you are a ternite
+9/26/2023 11:03:44,4,3,3,3,2,2,1,2,2,3,Y,Y,Mechatronics,3rd,Male,Too many assignments and projects to be submitted in a very small amount of time
+9/26/2023 11:08:04,2,2,2,2,2,2,3,3,2,2,N,N,CS,4th,Male,Low placement ..... lack of good with decent package company
+9/26/2023 11:34:12,3,2,4,4,4,4,4,4,4,4,Y,Y,CS,3rd,Male,yes
+9/26/2023 11:40:41,3,1,4,4,4,4,3,2,4,3,Y,Y,Mechatronics,3rd,Male,Maybe 
+9/26/2023 12:00:26,1,2,3,2,1,1,1,1,3,1,Y,N,Mechatronics,4th,Male,don't know 
+9/26/2023 12:01:59,4,4,4,4,4,2,1,4,2,4,Y,Y,Mechatronics,4th,Male,department 
+9/26/2023 14:25:53,1,3,3,2,3,3,2,2,3,1,Y,Y,Mechatronics,4th,Male,Yes. Improving skills with attending lecture becomes quite difficult 
+9/27/2023 0:40:31,3,3,3,3,3,2,3,3,3,3,Y,Y,Mechatronics,3rd,Male,Yeah i do
+9/27/2023 1:25:48,3,1,1,2,1,2,2,4,4,2,N,Y,IT,3rd,Male,no
+9/27/2023 23:06:07,1,0,0,0,0,0,1,0,2,0,N,N,CS,4th,Female,
+10/5/2023 15:45:49,2,1,3,2,3,2,3,3,2,2,Y,Y,IT,4th,Male,Less opportunities over the period of time after even having a sufficient adhere .
+10/9/2023 12:32:45,1,1,2,2,1,1,1,2,3,1,N,N,CS,3rd,Male,No
+10/9/2023 12:43:31,4,4,4,4,4,3,2,4,4,4,Y,Y,Civil,2nd,Male,Late admission in the college and also upcoming exam within 1.5 month of admission 
+10/9/2023 12:43:51,3,3,2,1,2,2,1,3,2,1,N,N,CS,3rd,Male,"Naah, atleast not in pressure due to academics of college. "
+10/9/2023 12:46:52,3,1,3,2,2,0,1,3,3,2,Y,N,Civil,2nd,Male,"Lack of extra curricular activities is the main reason according to me because I feel in my college the management is more inclined towards academics only. They should organise social events and other activities where one can interact with students of other departments. Current situation is like I am trapped in a Matrix with fixed routine that I follow everyday. College life hai yaar, interesting honi chahiye "
+10/9/2023 12:47:43,4,2,1,2,2,3,4,4,4,2,Y,Y,CS,1st,Male,Xyz
+10/9/2023 12:48:10,3,1,0,3,3,4,2,2,1,2,N,N,CS,1st,Female,Idk
+10/9/2023 12:48:14,2,2,2,3,4,3,3,3,2,2,Y,Y,CS,1st,Female,No
+10/9/2023 12:48:14,2,2,4,1,2,2,1,2,2,2,Y,Y,CS,1st,Female,No
+10/9/2023 12:48:22,2,2,3,1,3,1,3,3,2,2,Y,Y,AI-DS,1st,Male,Overthinking 
+10/9/2023 12:48:34,2,2,3,2,3,1,3,3,3,2,Y,N,AI-DS,1st,Male,YES
+10/9/2023 12:48:54,2,2,1,2,2,0,0,2,2,2,N,N,CS,1st,Female,No
+10/9/2023 12:49:19,2,3,4,3,3,4,2,3,4,2,Y,Y,CS,1st,Female,Professors
+10/9/2023 12:50:08,3,4,3,3,4,4,2,3,4,3,Y,Y,AI-DS,1st,Male,Ig there are some 
+10/9/2023 12:50:56,2,0,3,4,2,4,4,3,4,2,Y,Y,AI-DS,1st,Male,"Yes,the assignments and practicals are some of the factors that affect my academic stress and most importantly the train journey causes a lot of trouble while travelling."
+10/9/2023 12:51:11,2,1,3,1,0,0,1,1,0,0,N,N,AI-DS,1st,Male,No
+10/9/2023 12:51:21,1,2,4,3,4,3,3,3,4,2,Y,Y,AI-DS,1st,Female,Nope
+10/9/2023 12:51:34,1,2,4,2,0,2,3,3,4,3,N,N,AI-DS,1st,Male,Time table
+10/9/2023 12:51:35,0,1,2,0,2,1,0,3,1,3,N,N,AI-DS,1st,Male,"Physical health, relationship"
+10/9/2023 12:52:35,3,1,4,2,1,1,2,1,1,1,Y,N,AI-DS,1st,Female,Nope
+10/9/2023 12:53:23,3,2,4,3,3,1,1,2,3,2,Y,Y,AI-DS,1st,Female,.
+10/9/2023 12:56:35,4,2,2,2,3,2,4,1,1,2,N,N,Electronics,1st,Male,No
+10/9/2023 12:56:37,3,3,4,3,4,2,4,4,4,4,Y,Y,Electronics,1st,Male,-
+10/9/2023 12:56:44,2,1,2,0,0,1,0,1,2,0,N,N,Electronics,1st,Male,Nothing 
+10/9/2023 12:57:22,2,0,1,1,2,0,1,1,2,1,Y,Y,Electronics,1st,Male,No
+10/9/2023 12:57:28,3,4,4,2,2,1,4,2,2,2,Y,Y,AI-DS,1st,Female,Time management 
+10/9/2023 12:57:40,2,0,3,1,2,1,0,0,0,2,N,N,Electronics,1st,Male,Balaji Sir
+10/9/2023 12:57:58,1,0,2,4,2,2,2,1,2,4,N,N,Electronics,1st,Male,No
+10/9/2023 12:58:06,2,3,3,2,3,3,4,2,4,3,N,Y,Electronics,1st,Male, over thinking
+10/9/2023 12:58:12,2,0,3,0,2,0,3,2,0,3,N,N,Electronics,1st,Male,No
+10/9/2023 12:58:13,2,2,1,3,2,2,0,1,1,2,Y,Y,Electronics,1st,Male,Yes Due to more assignment I am unable to Manage my studies and extra Circul Activities
+10/9/2023 12:58:16,2,2,1,2,4,1,1,0,2,2,N,N,Electronics,1st,Female,No 
+10/9/2023 12:58:22,3,3,4,4,4,3,4,4,4,3,Y,Y,Electronics,1st,Male,The time race where youve to complete assignemts practicals and simultaneously doing studies for your exam for all of these things time give is very limited and less
+10/9/2023 12:58:41,2,2,2,3,1,0,4,3,1,4,N,N,Electronics,1st,Male,Emotions
+10/9/2023 12:58:44,2,3,4,2,3,4,3,2,3,2,N,N,Civil,2nd,Male,No
+10/9/2023 12:59:35,4,4,4,2,3,2,1,2,0,3,N,N,Electronics,1st,Male,"Apart from the abrupt shift in workload, travelling is quite hectic. Though a few months would make it the new normal."
+10/9/2023 13:00:32,4,0,4,4,4,3,4,4,4,3,Y,Y,Electronics,1st,Male,"Poor lecture timetable,poor subject teacher(chemistry sir) "
+10/9/2023 13:00:46,4,2,4,2,2,1,0,0,1,2,N,Y,Electronics,1st,Male,management of timetable playing sports in college
+10/9/2023 13:00:49,1,2,3,2,3,2,3,1,4,2,Y,Y,Electronics,1st,Female,nope
+10/9/2023 13:02:36,1,2,1,1,3,2,2,2,1,2,N,Y,AI-DS,1st,Male,No
+10/9/2023 13:02:55,2,2,3,1,3,3,2,1,1,1,Y,Y,AI-DS,1st,Male,No
+10/9/2023 13:03:12,3,4,3,3,4,3,2,3,1,2,Y,Y,Electronics,1st,Female,No
+10/9/2023 13:05:59,2,2,2,1,2,2,2,2,2,2,Y,Y,AI-DS,1st,Male,Yeah sometimes it feels like 
+10/9/2023 13:06:44,1,2,3,1,2,0,1,3,1,0,N,N,Electronics,1st,Male,Assignments and to paas without kt in first year 
+10/9/2023 13:06:49,2,0,4,2,2,2,2,2,2,2,Y,N,CS,1st,Male,No
+10/9/2023 13:06:53,1,1,1,3,2,3,2,2,0,1,Y,Y,EXTC,1st,Male,No 
+10/9/2023 13:07:10,2,2,1,0,1,0,2,0,0,2,N,N,AI-DS,1st,Male,Yeah sometimes it feels like collage should be in morning cauz if collage lectures are finished by the noon then we can get rest of time for studies and other activities but since we are having collage during noon so i am not able to get time for my self studies ane yeahhh this is the only reason affecting my studies and due to which i am facing academic stress some times...
+10/9/2023 13:09:11,0,0,1,0,0,0,0,0,1,0,N,N,EXTC,1st,Male,No
+10/9/2023 13:09:39,1,2,3,2,0,0,0,0,2,0,Y,N,EXTC,1st,Male,No
+10/9/2023 13:11:14,4,4,3,2,4,4,0,4,4,4,Y,N,Mechatronics,1st,Male,No
+10/9/2023 13:11:16,1,0,3,1,0,0,1,0,0,0,N,N,Mechatronics,1st,Male,Loneliness
+10/9/2023 13:12:13,3,3,3,1,1,1,0,3,1,2,N,N,Mechatronics,1st,Male,.
+10/9/2023 13:13:49,2,2,4,2,2,2,3,4,4,3,N,N,EXTC,4th,Male,No
+10/9/2023 13:13:57,1,1,2,0,2,3,1,1,4,3,N,N,EXTC,1st,Male,Procrastination
+10/9/2023 13:14:00,2,2,3,0,3,1,3,2,1,3,N,N,Mechatronics,1st,Male,No...
+10/9/2023 13:14:26,2,3,4,4,2,3,2,2,4,3,Y,Y,EXTC,1st,Female,Traveling 
+10/9/2023 13:15:44,1,1,2,0,1,1,2,1,1,1,N,N,AI-DS,1st,Female,Nope.
+10/9/2023 13:16:02,4,4,4,2,2,4,4,4,4,3,Y,Y,Mechatronics,1st,Female,.
+10/9/2023 13:18:01,1,2,2,1,1,1,1,2,0,1,Y,N,CS,1st,Male,Your survey 
+10/9/2023 13:20:00,3,3,4,4,3,2,4,4,4,2,N,Y,CS,1st,Male,Travelling issues
+10/9/2023 13:21:45,2,1,4,2,0,0,0,0,1,0,Y,N,CS,1st,Female,No
+10/9/2023 13:22:39,2,3,1,2,3,1,4,3,2,4,Y,Y,Mechanical,1st,Male,No
+10/9/2023 13:22:41,2,1,3,4,2,4,2,2,3,3,N,Y,CS,1st,Male,No
+10/9/2023 13:23:08,4,3,3,3,2,2,2,3,3,3,Y,Y,Mechanical,1st,Female,no
+10/9/2023 13:23:33,2,2,1,1,2,3,3,2,2,4,N,Y,Mechanical,1st,Male,No
+10/9/2023 13:24:14,4,4,4,4,4,4,4,4,3,4,Y,Y,EXTC,1st,Male,I don't think i can handle the pressure engineering requires
+10/9/2023 13:24:15,2,2,3,2,3,2,2,4,2,2,Y,Y,CS,1st,Female,"Looking people around you are smart , scoring high marks, answering frequently in class, having many achievements,all those stuff loose my confidence resulting in academic stress."
+10/9/2023 13:24:49,2,4,3,2,4,2,1,4,4,2,N,N,CS,1st,Male,overwhelmed by your academic writing work
+10/9/2023 13:25:47,1,2,4,2,1,1,2,4,1,3,N,N,Civil,1st,Female,Yes
+10/9/2023 13:31:37,2,4,4,4,2,2,1,3,3,1,Y,Y,IT,1st,Female,Noo
+10/9/2023 13:34:25,3,4,4,3,2,2,3,2,4,2,N,N,CS,4th,Male,Loneliness 
+10/9/2023 13:38:28,2,2,4,4,1,2,2,4,4,3,Y,Y,EXTC,1st,Female,No
+10/9/2023 13:38:40,2,4,2,0,1,2,1,2,4,1,N,N,CS,1st,Male,Travelling is a major problem that affect the academic
+10/9/2023 13:38:46,2,2,3,2,2,2,3,4,3,2,Y,Y,CS,1st,Female,No
+10/9/2023 13:40:43,1,1,2,2,3,1,2,2,1,1,N,N,IT,1st,Male,Hshahd
+10/9/2023 13:41:44,2,3,4,3,2,3,2,2,4,3,N,N,CS,1st,Male,Assignment 
+10/9/2023 13:42:09,4,2,4,1,1,1,0,4,2,2,N,N,IT,1st,Male,Ahah
+10/9/2023 13:42:27,1,1,1,1,2,2,2,1,1,2,N,N,IT,1st,Male,No
+10/9/2023 13:43:35,3,4,3,4,4,3,3,4,4,4,Y,Y,IT,1st,Male,Irrelevant assignment
+10/9/2023 13:44:31,3,4,2,3,1,2,2,3,1,3,Y,N,IT,1st,Male,Travelling 
+10/9/2023 13:45:13,1,4,2,3,4,3,4,2,4,1,Y,Y,IT,1st,Male,We travel to college from very far  and when we reached college we get to know our lectures are got cancelled ... Teachers should inform it before only ..
+10/9/2023 13:45:52,2,2,3,2,2,3,3,3,4,3,Y,N,CS,1st,Female,No
+10/9/2023 13:46:04,0,2,3,1,1,2,2,2,3,2,N,N,CS,1st,Male,"Assingment , etc "
+10/9/2023 13:46:04,2,2,4,2,3,2,2,4,3,2,Y,N,IT,1st,Male,Non
+10/9/2023 13:46:14,2,2,3,2,2,2,3,1,2,2,N,N,Civil,1st,Female,No
+10/9/2023 13:47:09,2,2,2,1,2,4,2,0,2,2,Y,Y,CS,1st,Male,Practical knowledge 
+10/9/2023 13:47:14,2,2,2,2,2,2,2,2,3,2,N,N,CS,1st,Male,"Assignment, etc"
+10/9/2023 13:47:25,3,3,3,3,3,3,3,2,3,2,N,N,CS,1st,Male,"Assignments,Snp sir,etc"
+10/9/2023 13:48:20,2,3,2,1,4,4,3,2,2,2,Y,Y,Mechanical,1st,Male,"Marks , teacher pressure "
+10/9/2023 13:50:30,1,0,3,2,2,2,2,3,3,2,N,Y,CS,1st,Male,Physics 
+10/9/2023 13:50:52,2,3,4,4,4,4,4,2,4,4,Y,Y,EXTC,1st,Female,nope
+10/9/2023 13:51:20,2,1,1,2,1,2,1,2,2,1,N,N,CS,1st,Female,No
+10/9/2023 13:53:23,3,4,3,2,2,0,2,1,2,2,Y,Y,CS,1st,Male,"Bad CR, worst decision of my life was to vote him, he doesn't do anything remains absent. If asked about anything says idk"
+10/9/2023 13:55:48,1,1,4,0,3,3,2,1,4,1,Y,N,EXTC,1st,Male,Not giving playing opportunity 
+10/9/2023 13:56:25,1,2,3,1,1,2,1,2,2,1,N,N,CS,1st,Male,No
+10/9/2023 13:57:34,2,1,3,1,2,1,4,2,4,2,N,Y,CS,1st,Female,Teachers and parents pressure to do excellent in academics
+10/9/2023 14:00:36,2,3,2,1,4,3,4,3,2,4,Y,N,CS,1st,Female,NO
+10/9/2023 14:00:54,2,2,2,3,3,3,2,3,3,3,Y,N,CS,1st,Female,Noo
+10/9/2023 14:09:49,1,1,2,2,2,0,2,0,0,1,N,N,EXTC,1st,Male,No
+10/9/2023 14:14:22,1,2,2,2,1,2,2,2,1,2,N,Y,CS,1st,Male,No
+10/9/2023 14:17:40,2,4,4,2,3,2,1,3,2,2,N,N,CS,1st,Male,No
+10/9/2023 14:18:26,3,4,3,3,3,4,3,2,4,2,Y,Y,IT,1st,Female,Studyyyyy
+10/9/2023 14:27:43,1,2,0,0,2,1,4,1,1,0,N,N,IT,1st,Female,Nothing much
+10/9/2023 14:33:49,2,2,2,1,1,0,1,0,2,2,N,N,CS,3rd,Male,No. All factors are covered. 
+10/9/2023 14:40:52,1,2,2,1,2,2,2,2,2,2,N,N,EXTC,1st,Female,No
+10/9/2023 14:41:53,3,3,4,2,1,0,3,3,3,2,N,N,CS,1st,Male,No
+10/9/2023 14:56:36,1,2,2,3,1,2,2,3,4,2,Y,Y,Mechatronics,1st,Male,No
+10/9/2023 14:59:01,2,2,3,2,2,3,2,3,4,2,Y,Y,Mechatronics,1st,Male,No all the points are covered 
+10/9/2023 15:18:10,2,3,4,2,2,1,3,4,2,3,Y,N,AI-DS,1st,Male,Yuss like there are some  teachers who don't come to teach they come to humiliate some students like me and they always talks in Marathi because of that we are not able to understand sometimes..so yea cause of these things our studies are getting affecting we are not able to understand anything...
+10/9/2023 15:34:36,3,2,1,2,4,4,3,3,3,3,Y,Y,IT,1st,Female,Peer group
+10/9/2023 15:36:59,2,2,1,0,0,0,2,1,2,2,N,N,Civil,1st,Male,Yes
+10/9/2023 15:37:52,2,2,2,1,2,0,2,1,2,2,N,N,Civil,1st,Male,Yes 
+10/9/2023 15:47:10,2,1,1,1,3,2,3,3,2,2,Y,Y,EXTC,1st,Male,Yes
+10/9/2023 16:04:37,1,1,4,1,1,0,1,0,1,1,N,N,Mechatronics,1st,Male,No
+10/9/2023 16:15:21,1,0,2,0,2,0,2,3,2,2,N,N,CS,1st,Male,No
+10/9/2023 16:28:02,2,3,2,3,2,2,4,4,4,4,Y,N,Electronics,1st,Male,No
+10/9/2023 16:42:38,2,2,1,2,2,2,3,1,4,3,Y,Y,AI-DS,1st,Female,No
+10/9/2023 16:49:40,2,3,2,3,1,0,0,1,0,0,N,N,EXTC,1st,Male,Just endless writings of Assignment and Journal Completion
+10/9/2023 16:55:16,2,3,2,2,1,2,3,2,2,2,Y,Y,CS,1st,Female,No
+10/9/2023 16:59:11,2,2,3,2,2,2,2,2,2,2,Y,Y,Civil,2nd,Female,No
+10/9/2023 16:59:44,2,1,3,4,3,2,4,2,4,0,Y,Y,CS,1st,Male,The travel is the major thing which affects me
+10/9/2023 17:13:52,2,2,2,1,0,0,1,0,0,0,N,N,Mechanical,1st,Male,No
+10/9/2023 17:13:53,3,2,3,2,3,3,3,2,3,3,Y,Y,CS,1st,Female,"No, there's just me myself n i making regrettable choices every hour."
+10/9/2023 17:15:06,3,2,2,3,2,4,4,3,2,2,N,N,Mechanical,1st,Male,Nothing 
+10/9/2023 17:21:24,1,2,1,1,1,0,1,1,1,0,N,N,EXTC,1st,Male,I'm managing my studies and personal life just fine and i don't feel overwhelmed by my academic challenges
+10/9/2023 17:29:05,2,2,4,3,4,1,2,3,4,1,Y,N,IT,1st,Male,No
+10/9/2023 17:38:47,0,1,0,1,1,0,4,2,0,3,N,N,Mechatronics,1st,Female,No there aren't any
+10/9/2023 17:42:41,3,3,3,4,4,2,4,4,3,3,Y,N,CS,1st,Male,Timing of college traveling deadlines 
+10/9/2023 17:55:54,2,3,4,3,3,2,3,2,3,2,Y,N,CS,1st,Male,No
+10/9/2023 18:19:28,0,0,0,0,0,0,0,2,0,1,N,N,AI-DS,1st,Male,Unplanned study
+10/9/2023 18:31:22,2,2,2,2,3,1,4,4,3,3,N,N,EXTC,1st,Female,Assignments or if teachers are not teaching properly also the students around me sometimes do affect me 
+10/9/2023 18:32:01,1,2,2,1,2,2,2,2,3,2,N,N,CS,1st,Female,No
+10/9/2023 18:41:47,0,2,2,1,2,1,0,2,2,2,N,N,IT,1st,Male,No
+10/9/2023 18:55:30,3,2,4,4,4,1,1,4,2,4,Y,Y,Mechanical,1st,Female,.
+10/9/2023 19:10:03,0,1,2,1,3,1,2,2,3,2,N,Y,Mechatronics,1st,Male,Only studies in the college 
+10/9/2023 19:21:51,2,3,3,3,3,2,4,3,4,4,Y,Y,IT,1st,Male,Some teacher often inform one night before the lecture to complete the work or assignment which ruins my schedule for the self study. In reading room also often the A C turn off n not enough tables for seating arrangement. Some teacher's voice don't even reach to the middle row.
+10/9/2023 19:23:59,2,3,2,2,2,2,1,2,3,2,Y,Y,CS,1st,Female,Yes
+10/9/2023 19:25:51,2,1,3,0,2,2,2,3,3,0,N,N,CS,1st,Male,Challenges faced for intership while doing academic stuff
+10/9/2023 19:27:02,1,2,3,1,2,1,2,1,1,1,Y,N,IT,1st,Female,No
+10/9/2023 19:31:47,1,0,1,0,1,1,0,1,1,0,N,N,Civil,1st,Male,Nope
+10/9/2023 19:46:46,4,4,4,2,2,3,3,4,4,4,Y,N,AI-DS,1st,Female,The timetable is hectic as I live far from college it's more difficult 
+10/9/2023 20:10:47,0,1,2,0,2,2,0,1,2,0,N,N,Electronics,1st,Male,No
+10/9/2023 20:18:54,2,1,4,1,4,3,3,2,2,1,Y,Y,EXTC,1st,Female,No there is nothing other factors affecting my academic stress.
+10/9/2023 20:19:43,2,4,4,4,4,4,4,4,4,4,Y,Y,IT,1st,Female,"Feeling so stressed, not even able to have 2 meals a day like I'm not getting enough time , maybe it's bcuz I'm not able to manage the time properly 😞"
+10/9/2023 20:21:53,2,1,2,2,0,0,4,1,0,0,N,Y,CS,1st,Female,"time management,difficult class work,Teacher's effectiveness. ..."
+10/9/2023 20:38:42,2,3,4,3,2,3,4,2,4,4,Y,Y,IT,1st,Female,Journal write up we have to write by our own. Clg should provide printed journal this will save lots of our time and we can do more focus on studies
+10/9/2023 21:07:16,2,3,3,2,3,3,2,2,3,2,Y,N,Civil,1st,Male,College crowd!
+10/9/2023 21:14:37,1,0,2,1,1,1,0,1,0,1,N,N,EXTC,1st,Male,No
+10/9/2023 21:18:45,2,1,3,1,1,2,3,2,3,1,N,Y,AI-DS,1st,Female,Yes
+10/9/2023 21:28:06,3,3,3,4,3,2,1,3,3,3,Y,Y,CS,1st,Male,No
+10/9/2023 21:51:06,3,4,3,3,4,3,3,3,4,3,Y,Y,EXTC,1st,Female,"The kind of load we have regarding assignments, project, exams like ek khatam nhi hota h ke dusra aa jata h jiski wajah se doesn't get time for self study "
+10/9/2023 22:44:16,3,4,4,2,4,4,3,4,3,3,Y,Y,Mechatronics,1st,Female,Family issues 
+10/10/2023 0:00:45,2,3,3,2,3,2,4,2,2,2,Y,Y,EXTC,1st,Female,Not sure
+10/10/2023 0:19:26,3,3,3,4,4,4,3,3,4,4,Y,Y,Mechanical,1st,Male,No
+10/10/2023 0:47:09,2,2,4,4,4,4,3,4,4,1,Y,Y,CS,1st,Male,Do not compare the children 
+10/10/2023 14:40:50,2,2,4,4,2,2,2,2,2,2,N,N,CS,1st,Male,Physics sir
+10/10/2023 14:41:34,2,2,4,4,2,2,2,2,2,2,N,N,CS,1st,Male,Batane layak nhi hai bhai bohot tension hai🥺
+10/11/2023 19:39:03,2,1,2,0,1,0,2,0,0,1,N,N,IT,1st,Female,No
+10/13/2023 11:25:52,2,2,3,1,2,1,2,3,4,2,N,N,CS,3rd,Male,Not as such 
+10/15/2023 10:07:19,2,3,3,2,2,3,4,3,3,3,Y,Y,IT,1st,Male,"Work time management with other studies I opt, completion of assignments"
+10/16/2023 10:48:35,2,4,4,0,4,0,4,1,4,2,N,N,CS,2nd,Male,No 
+10/16/2023 10:49:09,3,0,3,2,4,3,2,1,4,2,Y,N,CS,2nd,Female,No
+10/16/2023 10:49:17,3,3,3,3,3,2,4,2,2,2,Y,N,CS,2nd,Female,No
+10/16/2023 10:49:20,3,3,3,3,2,3,1,2,2,2,Y,Y,CS,2nd,Male,Assignment and projects 
+10/16/2023 10:49:36,0,0,2,2,3,2,3,3,2,2,N,N,CS,2nd,Male,No 
+10/16/2023 10:49:53,2,1,0,1,1,1,0,1,0,1,N,N,CS,2nd,Male,NO 
+10/16/2023 10:50:01,2,3,3,4,2,3,0,2,4,3,Y,N,CS,2nd,Male,Kt
+10/16/2023 10:50:15,2,3,2,2,1,2,2,3,4,2,Y,Y,CS,2nd,Male,no
+10/16/2023 10:50:31,4,2,4,0,1,2,2,2,0,1,Y,N,CS,2nd,Female,No
+10/16/2023 10:51:07,2,2,3,2,1,0,2,2,0,3,N,N,CS,2nd,Male,Nope
+10/16/2023 10:51:34,4,3,3,3,3,2,2,2,3,2,Y,Y,CS,2nd,Male,No
+10/16/2023 10:51:51,3,3,3,2,2,3,3,3,3,3,Y,Y,CS,2nd,Male,"Family problems, financial problems "
+10/16/2023 10:52:06,1,2,4,1,1,2,1,4,1,3,N,Y,CS,2nd,Female,Some life problems
+10/16/2023 10:52:14,3,3,3,4,2,3,3,3,3,3,Y,Y,CS,2nd,Female,No
+10/16/2023 10:53:17,2,2,2,1,1,0,1,1,0,1,N,N,CS,2nd,Male,No.
+10/16/2023 10:53:27,3,3,3,2,2,3,3,3,3,2,Y,Y,CS,2nd,Male,No
+10/16/2023 10:53:45,3,3,3,2,4,2,1,2,2,1,Y,Y,CS,2nd,Male,Indescribable 
+10/16/2023 10:54:18,3,2,3,2,2,0,2,1,0,2,Y,N,CS,2nd,Female,No
+10/16/2023 10:54:25,2,3,3,2,3,1,2,3,2,2,Y,N,CS,2nd,Female,Online distractions is the major cause 
+10/16/2023 10:55:15,3,2,4,4,3,3,4,4,4,1,Y,Y,CS,2nd,Male,75% attendance system and excess assignments 
+10/16/2023 10:56:08,3,2,2,0,2,0,0,1,1,2,N,N,CS,2nd,Female,No
+10/16/2023 10:56:15,1,1,4,2,0,0,0,1,3,1,N,N,CS,2nd,Male,Valorant ranked matches
+10/16/2023 10:56:26,2,2,3,2,3,3,2,2,4,2,N,Y,CS,2nd,Male,No
+10/16/2023 10:56:32,1,1,4,2,2,2,2,2,2,1,N,N,CS,2nd,Male,  games
+10/16/2023 10:56:40,2,3,4,2,2,3,3,4,4,3,N,Y,CS,2nd,Male,Cricket 
+10/16/2023 10:56:44,2,2,3,3,1,2,2,3,4,1,Y,Y,CS,2nd,Male,75% attendance system 
+10/16/2023 11:00:27,4,4,4,4,4,3,3,4,4,3,Y,Y,CS,2nd,Male,Compulsion on Non required stress
+10/16/2023 11:43:45,3,2,3,1,2,1,4,3,2,1,Y,Y,CS,2nd,Male,None
+10/16/2023 11:54:34,1,1,1,1,1,1,2,2,2,2,N,N,CS,2nd,Male,Love life
+10/16/2023 11:54:53,2,1,1,1,1,2,2,4,1,1,N,Y,CS,2nd,Male,love life
+10/16/2023 11:55:32,1,1,1,2,1,1,2,2,2,2,Y,Y,CS,2nd,Female,Y
+10/16/2023 11:56:00,2,3,4,2,3,2,2,3,4,2,Y,N,CS,2nd,Female,No
+10/16/2023 12:01:40,3,3,4,4,3,0,2,2,1,2,N,Y,CS,2nd,Male,"Assignments ,continuous pressure"
+10/16/2023 12:02:37,3,2,4,3,3,1,2,2,2,2,N,N,CS,2nd,Male,No
+10/16/2023 12:02:56,2,3,4,3,3,4,3,4,4,3,Y,N,CS,2nd,Male,No
+10/16/2023 12:04:36,3,4,4,3,4,3,4,4,4,4,Y,Y,CS,2nd,Male,No
+10/16/2023 12:06:20,3,4,4,3,3,3,3,4,2,3,Y,Y,CS,2nd,Male,Sometimes I get very less for study because of traveling 
+10/16/2023 12:07:33,1,1,2,1,1,2,2,1,2,1,Y,Y,CS,2nd,Female,No
+10/16/2023 12:08:27,1,2,0,1,4,2,2,1,0,2,N,N,CS,2nd,Male,No
+10/16/2023 12:09:33,3,4,2,2,3,1,2,3,2,3,N,Y,CS,2nd,Male,No
+10/16/2023 12:10:20,4,4,3,2,4,3,4,4,4,0,Y,Y,CS,2nd,Male,Time is less
+10/16/2023 12:16:11,2,0,3,3,2,2,2,3,4,3,Y,Y,CS,2nd,Male,College infrastructure 
+10/16/2023 12:18:55,3,3,3,4,4,2,2,2,2,2,Y,Y,CS,2nd,Female,No
+10/16/2023 12:49:30,4,4,4,3,4,4,4,4,4,4,Y,Y,CS,2nd,Male,No
